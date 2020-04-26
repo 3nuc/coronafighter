@@ -1,0 +1,17 @@
+{
+  "name": "coronafighter",
+  "displayName": "coronafighter",
+  "expo": {
+    "name": "coronafighter",
+    "slug": "coronafighter",
+    "version": "1.0.0",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
